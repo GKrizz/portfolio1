@@ -2,7 +2,7 @@
 
 ## Demo
 
-A live demo of the portfolio can be accessed [here](https://gkrizz.github.io/CODSOFT_WB_Level1_Task1_Portfolio/).
+A live demo of the portfolio can be accessed [here](https://gkrizz.github.io/portfolio1/).
 
 ## Introduction
 
