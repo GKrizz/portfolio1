@@ -1,4 +1,4 @@
-# Level 1 Task 1 Portfolio
+# Portfolio
 
 ## Demo
 
@@ -29,17 +29,13 @@ To get a local copy of the project up and running, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/GKrizz/CODSOFT_WB_Level1_Task1_Portfolio.git
+    git clone https://github.com/GKrizz/portfolio1.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd CODSOFT_WB_Level1_Task1_Portfolio
+    cd portfolio1
     ```
 
 3. Open the `index.html` file in your web browser.
-
-## Acknowledgements
-
-This project was completed as part of the CodSoft Internship Program. Special thanks to CodSoft for providing this opportunity.
